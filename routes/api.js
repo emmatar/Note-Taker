@@ -22,13 +22,12 @@ router.post('/notes', (req, res) => {
     fs.readFile('./db/db.json', "utf8", (err, data) => {
         const notes = JSON.parse(data);
         const noteUpdate = {...req.body, id: uniqid()};
-        
+    
         notes.push(noteUpdate);
         fs.writeFile('./db/db.json', JSON.stringify(notes, null, 2), (err) => {
             res.json(notes);
         })
     });
-    
 })
 
 // Accessing notes api and deleting an existing note
@@ -37,7 +36,9 @@ router.delete('/notes/:id', (req, res) => {
         const notes = JSON.parse(data);
         const noteUpdate = notes.filter(note => note.id !== req.params.id)
 
-        res.json(noteUpdate);
+        fs.writeFile('./db/db.json', JSON.stringify(noteUpdate), (err) => {
+            res.json(noteUpdate);
+        })
     })
 })
 
