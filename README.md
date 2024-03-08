@@ -61,10 +61,11 @@ Next, the Note Taker landing page should have a 'Get Started' button that will t
 
 [Here's a link to the Walkthrough Video!](https://drive.google.com/file/d/1Byl3l06A2OKy17BYpfc_i02P2kefxTnt/view)
 
-![Screenshot1](/lib/images/Start.png)
-![Screenshot2](/lib/images/Generated.png)
-![Screenshot3](/lib/images/SVG_example.png)
-
+![Screenshot1](/lib/img-start.png)
+![Screenshot2](/lib/img-url.png)
+![Screenshot3](/lib/image-1.png)
+![Screenshot3](/lib/image-2.png)
+![Screenshot3](/lib/image-4.png)
 
 <a href="https://drive.google.com/file/d/1Byl3l06A2OKy17BYpfc_i02P2kefxTnt/view" target="_blank">Walkthrough Video</a>
 <br />
