@@ -65,7 +65,9 @@ Next, the Note Taker landing page should have a 'Get Started' button that will t
 ![Screenshot3](/lib/image-2.png)
 ![Screenshot3](/lib/image-4.png)
 
-<a href="https://drive.google.com/file/d/1Byl3l06A2OKy17BYpfc_i02P2kefxTnt/view" target="_blank">Walkthrough Video</a>
+<a href="https://drive.google.com/file/d/1Byl3l06A2OKy17BYpfc_i02P2kefxTnt/view" target="_blank">Link to Walkthrough Video</a>
+
+<a href="https://secure-refuge-19503-cfce634e958b.herokuapp.com/" target="_blank">App Link To Heroku Deployment</a>
 <br />
 
 Woah, a congratulations are in order. "CONGRATULATIONS!", on using *subjectively* the most amazing note taker on the internet!! Cheers!
