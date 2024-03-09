@@ -59,8 +59,6 @@ Once Note Taker is initiated with 'npm start', the integrated terminal will prod
 
 Next, the Note Taker landing page should have a 'Get Started' button that will take the user to a notes page. From the notes page, already created notes will display on the left, and on the right, you can create a new note Or select on of the notes on the left to read the details of the note title.
 
-[Here's a link to the Walkthrough Video!](https://drive.google.com/file/d/1Byl3l06A2OKy17BYpfc_i02P2kefxTnt/view)
-
 ![Screenshot1](/lib/img-start.png)
 ![Screenshot2](/lib/img-url.png)
 ![Screenshot3](/lib/image-1.png)
